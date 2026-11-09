@@ -1,0 +1,114 @@
+{
+  "updated_at": "2026-11-09T15:18:08.245259+08:00",
+  "policy": "Hanya versi terbaru di alamat tetap; versi sumber dicatat pada setiap berkas.",
+  "presentations": [
+    {
+      "meeting": 1,
+      "source_version": "v01",
+      "path": "materi/pertemuan-01.html",
+      "sha256": "eba589617492c975c068f4478e025658acc4c9753eb38662f206b90094097e39"
+    },
+    {
+      "meeting": 2,
+      "source_version": "v07",
+      "path": "materi/pertemuan-02.html",
+      "sha256": "01959733959aa9c7394a82fe6b07a5bd91a0258fdbd6ac91bcdf0689662fd4b4"
+    },
+    {
+      "meeting": 3,
+      "source_version": "v07",
+      "path": "materi/pertemuan-03.html",
+      "sha256": "32bfd9dd527d5e61e6c131c0df05ed7a42cf4e2777071ebcd9adbfabd4e89860"
+    },
+    {
+      "meeting": 4,
+      "source_version": "v08",
+      "path": "materi/pertemuan-04.html",
+      "sha256": "97b8ee9ca3664d4535f054b6a7a6c42588fad9656139cac68e912057d75077ef"
+    },
+    {
+      "meeting": 5,
+      "source_version": "v06",
+      "path": "materi/pertemuan-05.html",
+      "sha256": "a2c3aa63b6b43dcf060b2facef85c016f5dc0991aad07f94cb6315def78ec104"
+    },
+    {
+      "meeting": 6,
+      "source_version": "v04",
+      "path": "materi/pertemuan-06.html",
+      "sha256": "61a69aee8f4ee86582165b3e30f4c1d7b9fa7d4e399b3baa1094e1a864297b95"
+    },
+    {
+      "meeting": 7,
+      "source_version": "v03",
+      "path": "materi/pertemuan-07.html",
+      "sha256": "8aba1af42a5bb455602a2e231f5e650e6c09900cefefacf2a74cfeb1cb9fac36"
+    },
+    {
+      "meeting": 8,
+      "source_version": "v05",
+      "path": "materi/pertemuan-08.html",
+      "sha256": "24de83c832a1da0f21a161959ca4576dcf7bd870dd310318e7cfc691948cf8cb"
+    },
+    {
+      "meeting": 9,
+      "source_version": "v03",
+      "path": "materi/pertemuan-09.html",
+      "sha256": "362b733153d9c112e524518c379f4b13c38c266953f242d79f7babb14334aafb"
+    },
+    {
+      "meeting": 10,
+      "source_version": "v03",
+      "path": "materi/pertemuan-10.html",
+      "sha256": "d110a05011045cece4a172a48a4e465850710a4f6a6e7e1e373579164ff852f1"
+    },
+    {
+      "meeting": 11,
+      "source_version": "v03",
+      "path": "materi/pertemuan-11.html",
+      "sha256": "d893ffcff68ec380e8e9fd8661ec6e6fa70f8d6fcc524971ec0573dcdbe5b759"
+    },
+    {
+      "meeting": 12,
+      "source_version": "v04",
+      "path": "materi/pertemuan-12.html",
+      "sha256": "0011275fb9e06fe29670759a83da4d2967461d5e8fe117a0a19030ddf1f1922c"
+    },
+    {
+      "meeting": 13,
+      "source_version": "v04",
+      "path": "materi/pertemuan-13.html",
+      "sha256": "aeb53596ffd1b0589176046b9d953d6561c2d247538140290448da9b385931aa"
+    },
+    {
+      "meeting": 14,
+      "source_version": "v03",
+      "path": "materi/pertemuan-14.html",
+      "sha256": "fc01787a15ae5d0c39f1dac1d041ad62e06dff1fbf18c3c7cb2fb561c38df59a"
+    },
+    {
+      "meeting": 15,
+      "source_version": "v03",
+      "path": "materi/pertemuan-15.html",
+      "sha256": "0d7ad3aba113759119ddaf0c29fb2455bfd066b68c6102c6f2d5de17ff55ea7c"
+    },
+    {
+      "meeting": 16,
+      "source_version": "v03",
+      "path": "materi/pertemuan-16.html",
+      "sha256": "d6c58750810cf1b7de43ba3421ae6d55cbc80b2ae3aa76eb050408fdbc89913b"
+    }
+  ],
+  "rps": [
+    {
+      "source_version": "v.09",
+      "path": "rps/rps-transformasi-digital.pdf",
+      "sha256": "13e7dcf534478f54fb03413f37d6981c6c14ccd0eee0102f4a829c3161584166"
+    },
+    {
+      "source_version": "v.09",
+      "path": "rps/rps-transformasi-digital.docx",
+      "sha256": "c08ec5faabc3be7df838ec01145b87ded842795a0cd80a7fcda97c9152c0287d"
+    }
+  ]
+}
